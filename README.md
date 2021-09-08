@@ -37,7 +37,7 @@ while status == student {
 if status == graduate {
     print("Congratulations! Now go and make your dreams true")
     
-    var objective = SiliconValley as Place
+    var objective = SiliconValley as Goal
 }
 ```
 
