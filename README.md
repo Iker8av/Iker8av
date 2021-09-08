@@ -20,18 +20,18 @@ print("Hello World!")
 
 print("I’m currently studying Computer Science in Tecnologico de Monterrey")
 
+var currentProjects = [
+      { type: VideoGame, status: "In development", name: "Project Pixel Light" },
+      { type: App, status: "In development", name: "Life & Health" },
+      { type: App, status: "In development", name: "Project Rotuine App" }
+    ]
+
 while status == student {
   ++effort
   ++newProgrammingLanguajes
   ++newTools
   ++newProjects
   ++newAdventures
-  
-  var currentProjects = [
-      { type: VideoGame, status: "In development", name: "Project Pixel Light" },
-      { type: App, status: "In development", name: "Life & Health" },
-      { type: App, status: "In development", name: "Project Rotuine App" }
-    ]
 }
 
 if status == graduate {
